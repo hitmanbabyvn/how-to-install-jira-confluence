@@ -60,8 +60,8 @@ grant all privileges on database <database> to <username>;
 
 ### Install JIRA & CONFLUENCE
 
-Download JIRA https://www.atlassian.com/software/jira/download
-Download CONFLUENCE https://www.atlassian.com/software/confluence/download
+- Download JIRA https://www.atlassian.com/software/jira/download
+- Download CONFLUENCE https://www.atlassian.com/software/confluence/download
 
 Make the installer executable and run
 
