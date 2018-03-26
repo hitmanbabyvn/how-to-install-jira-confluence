@@ -45,7 +45,7 @@ By default, Postgres uses a concept called "roles" to aid in authentication and 
 ```
 sudo -i -u postgres
 createuser jira
-createdb confluence
+createuser confluence
 createdb jira
 createdb confluence
 ```
