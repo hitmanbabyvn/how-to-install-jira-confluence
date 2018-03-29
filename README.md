@@ -88,3 +88,4 @@ in your browser to begin the setup process.
 ### CREDIT
 - https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-centos-7
 - https://medium.com/coding-blocks/creating-user-database-and-adding-access-on-postgresql-8bfcd2f4a91e
+- https://linode.com/docs/databases/postgresql/how-to-install-postgresql-relational-databases-on-centos-7/
